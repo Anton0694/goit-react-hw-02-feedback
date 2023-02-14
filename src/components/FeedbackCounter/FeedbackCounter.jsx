@@ -1,5 +1,4 @@
 import React from 'react';
-import './FeedbackCounter.css';
 import { Statistics } from 'components/Statistics/Statistics';
 import { FeedbackOptions } from 'components/FeedbackOptions/FeedbackOptions';
 import { Notification } from 'components/Statistics/Notification';
